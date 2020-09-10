@@ -1,0 +1,31 @@
+# operators
++ = addition
+- = subtraction
+* = multiply
+** = power or exponent
+/ = division
+// = Floor division = quotient 
+% = Modulus or remainder
+< = lesser than
+> = greater than
+<= = lesser than and equal
+>= = greater than and equal
+== = equal to
+!= = not equal
+<> = 
+() = for tuples/ strings
+[]= for list
+{} = for dictionaries
+@
+,
+: = used in block in the same line where block starts
+. = period operator
+= = assigning value
+;
++= = x +=y means x = x + y
+-= = x -=y means x = x - y
+*= = x *=y means x = x * y
+/= = x /=y means x = x / y
+//= = x //=y means x = x // y
+%=  = x %=y means x = x % y
+**= = x **=y means x = x ** y
